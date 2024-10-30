@@ -1,4 +1,8 @@
 ![image](https://github.com/user-attachments/assets/e6e98717-1205-49cd-87ca-20dd464e9f81)
+
+
+
+
 The first requirement for me is to create a jira ticket . Explain the CI - CD pipeline inside the ticket.
 The first thing we are going to do is to build and deploy the same in tomcat servder
 setup CI/CD with Github,Jenkins, Maven and Tomcat
